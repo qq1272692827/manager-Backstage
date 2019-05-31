@@ -6,7 +6,7 @@ spring:
         druid:
             # 主库数据源
             master:
-                url:  jdbc:mysql://172.16.8.30:3306/zztl_ruoyi_db
+                url:  jdbc:mysql://172.16.8.30:3306/zztl_core
                 username: root
                 password: zztl!@#$
             # 从库数据源
